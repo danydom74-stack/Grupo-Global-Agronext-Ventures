@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Integral Agronext & Estudio Hexagonal",
+  "description": "Flujo interactivo completo y automatización de punta a punta para Grupo Global Agronext, Central Mieles Mexicanas y Estudio Hexagonal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
